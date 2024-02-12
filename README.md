@@ -16,5 +16,7 @@ You can find the challenge [here](https://www.frontendmentor.io/challenges/socia
 
 My challenge was to create a social links profile and make it resemble the design as closely as possible.
 
+Check out my [Live Preview] (https://schaggyy.github.io/FrontendMentor_socialside/)
+
 
 
