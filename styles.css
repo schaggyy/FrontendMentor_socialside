@@ -1,0 +1,110 @@
+body {
+    background-color: hsl(0, 0%, 8%);
+    font-family: Inter, Arial, Helvetica, sans-serif;
+    color: hsl(0, 0%, 100%);
+}
+
+.main {
+    background-color: hsl(0, 0%, 12%);
+    padding: 20px;
+    margin: 10% auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column; 
+    width: 350px;
+    border-radius: 8px;
+}
+
+.links {
+    margin: 15px;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+}
+
+.github {
+    padding: 10px 0px;
+    margin: 10px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 8px;
+    width: 300px;
+    justify-content: center;
+    display: flex;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+
+.linkedin {
+    padding: 10px 0px;
+    margin: 10px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 8px;
+    width: 300px;
+    justify-content: center;
+    display: flex;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.instagram {
+    padding: 10px 0px;
+    margin: 10px;
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 8px;
+    width: 300px;
+    justify-content: center;
+    display: flex;
+    font-size: 14px;
+    font-weight: 700;
+}
+
+a {
+    text-decoration: none; 
+    color: hsl(0, 0%, 100%);
+}
+
+a:hover { 
+    text-decoration: none; 
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+  } 
+
+  a:active { 
+    text-decoration: none; 
+    background-color: hsl(75, 94%, 57%);
+    color: black;
+  }
+
+img {
+    border-radius: 50%;
+    max-width: 100px;
+    padding: 20px;
+  }
+
+.name {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.city {
+    font-size: 14px;
+    color: hsl(75, 94%, 57%);
+    font-weight: 600;
+    margin-top: 7px;
+    margin-bottom: 20px;
+}
+
+.bio {
+    font-size: 12px;
+}
+
+/*
+.attribution {
+    display: flex;
+    justify-content: flex-end;
+    align-content: flex-end;
+    color: white;
+}
+*/
